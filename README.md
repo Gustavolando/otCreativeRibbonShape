@@ -1,4 +1,4 @@
-## Text Reveal Animation Effect Color
+## Creative Ribbon Shape
 
 This is a nice and neat CSS effect.
 
@@ -10,10 +10,10 @@ This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?
 
 I hope you like it, code it and [watch it](https://gustavolando.github.io/otCreativeRibbonShape/)!
 
-![Text Reveal Animation Effect](https://gustavolando.github.io/otCreativeRibbonShape/Creative%20Ribbon%20Shape%201.png)
+![Creative Ribbon Shape](https://gustavolando.github.io/otCreativeRibbonShape/Creative%20Ribbon%20Shape%201.png)
 
-![Text Reveal Animation Effect](https://gustavolando.github.io/otCreativeRibbonShape/Creative%20Ribbon%20Shape%202.png)
+![Creative Ribbon Shape](https://gustavolando.github.io/otCreativeRibbonShape/Creative%20Ribbon%20Shape%202.png)
 
-![Text Reveal Animation Effect](https://gustavolando.github.io/otCreativeRibbonShape/Creative%20Ribbon%20Shape%203.png)
+![Creative Ribbon Shape](https://gustavolando.github.io/otCreativeRibbonShape/Creative%20Ribbon%20Shape%203.png)
 
 Here is the animation demo link:  https://gustavolando.github.io/otCreativeRibbonShape/
